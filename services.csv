@@ -1,0 +1,2 @@
+deployment,image-ref,image-val
+nginx-deployment,nginx,nginx:1.9.4
