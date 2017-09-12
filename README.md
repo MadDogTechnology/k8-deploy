@@ -1,3 +1,5 @@
+DEPRECATED
+
 This app deploys services to kubernetes
 
 SETUP
