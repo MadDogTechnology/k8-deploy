@@ -1,3 +1,8 @@
+# k8-deploy
+**Owner(s):** Derek VerLee
+
+# Repo is Inactive
+
 DEPRECATED
 
 This app deploys services to kubernetes
